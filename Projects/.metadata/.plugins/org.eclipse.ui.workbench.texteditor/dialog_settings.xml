@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="false" key="isRegEx"/>
+		<item value="next" key="selection"/>
+		<item value="true" key="casesensitive"/>
+		<item value="false" key="incremental"/>
+		<item value="true" key="wrap"/>
+		<item value="false" key="wholeword"/>
+		<list key="findhistory">
+			<item value="afterNode"/>
+			<item value="beforeNode"/>
+			<item value="v"/>
+			<item value="partialTree"/>
+			<item value="arc"/>
+			<item value="largest1"/>
+			<item value="largest2"/>
+			<item value="data"/>
+			<item value="al1"/>
+			<item value="al2"/>
+			<item value="Sister"/>
+			<item value="Alice"/>
+			<item value="sister"/>
+			<item value="&#x09;&#x09;&#x09;for (int counter = 0; counter &lt; row -1; counter ++) { //row-1 because root.firstChild is already the first one"/>
+			<item value="turnVarsToLiterals"/>
+		</list>
+		<list key="replacehistory">
+			<item value="next"/>
+			<item value="prev"/>
+			<item value="KW1"/>
+			<item value="KW2"/>
+			<item value="frequency"/>
+			<item value="Keyword1"/>
+			<item value="Keyword2"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="294" key="DIALOG_WIDTH"/>
+		<item value="1|.AppleSystemUIFont|11.0|0|COCOA|1|.AppleSystemUIFont" key="DIALOG_FONT_NAME"/>
+		<item value="408" key="DIALOG_HEIGHT"/>
+		<item value="887" key="DIALOG_X_ORIGIN"/>
+		<item value="103" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>
